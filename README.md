@@ -1,58 +1,13 @@
-# Hey, I'm Subroto 👋
+# 💫 About Me:
+🎓 IT Engineering Student at KJSIT '27 · Honors in AIML · Minors in IoT & Cloud Computing<br>🚀 I build AI-powered products — from multi-agent GenAI systems to IoT platforms tracking real students on campus.<br>👨‍💼 Former CTO @ IETE KJSIT · Currently serving as Advisory Core for the Tech Team · Led a 15-member team across 2 years.<br>🎯 Aspiring Product Manager & Strategy + Tech Consultant — I bridge the gap between technical execution and business impact.<br>🌱 Always experimenting with GenAI, LLMs, prompt engineering, and full-stack tools.<br>📫 Open to PM & consulting internship opportunities!
 
-**IT Engineering Student @ KJSIT '27 · Honors in AIML · CTO @ IETE KJSIT**  
-Mumbai, Maharashtra | Building AI-powered products that solve real problems
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subroto_datta.01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subroto-datta-862632270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subroto.d@somaiya.edu) 
 
-## 🚀 What I'm Building
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Proofly**](https://github.com/Subroto-Datta/proofly-team-testatrinity) | Micro-internship platform — students earn cryptographically verified skill credentials by completing real tasks | Gemini API · Next.js · Firebase · TypeScript |
-| [**TrustWeave**](https://github.com/20Aarya05/three-point-zero-trustweave) | Multi-agent GenAI credit assessment using behavioral signals instead of credit history | Gemini API · Vertex AI · React · Supabase |
-| [**IoT Attendance System**](https://github.com/Subroto-Datta/student-entry-attendance-system) | RFID + ESP32 campus entry tracking — 100+ students, 95%+ accuracy, 80% less manual work | Python · AWS Lambda · DynamoDB · React |
-| [**Digital NOC System**](https://github.com/Subroto-Datta/digital-noc-system) | Role-based NOC management for academic institutions with PDF certificate generation | Node.js · Express · MongoDB · React |
-
----
-
-## 🛠 Tech Stack
-
-**AI & GenAI** · Gemini API · Groq API · Claude API · Vertex AI · Prompt Engineering · Multi-agent Systems  
-**Frontend** · React · Next.js · TypeScript · Tailwind CSS · Framer Motion  
-**Backend** · Node.js · Express · Python · REST APIs  
-**Cloud & DB** · AWS (Lambda, DynamoDB, S3) · Firebase · Supabase · MongoDB  
-**IoT** · ESP32 · RFID · Arduino  
-**Design** · Figma · Canva · SnapAR Lens Studio
-
----
-
-## 🏆 Highlights
-
-- 🥇 **1st Prize** — MIT App Inventor App Development Competition
-- 🥉 **3rd Prize** — IETE Mumbai Forum: Best Institute Student Forum Track
-- 🤖 **Google Gemini Model Testing** — Crowdsource by Google Gemini (pushed Gemini 2.5 Pro on language & regional context edge cases)
-- 📋 **McKinsey Forward Program** — Structured problem-solving & digital toolkit
-- 🏗️ **Hackathons** — GenAI Hackathon 2025 (Google/LetsUpgrade) · Lyzr AI Buildathon · XR Creator Hackathon
-- 🎓 **Simulations** — Mastercard Advisors · EA Product Management · Siemens Mobility · Deloitte (2x) via Forage
-
----
-
-## 👨‍💼 Leadership
-
-**CTO @ IETE KJSIT** *(Feb 2025 – Present)*  
-Leading 15-member dev team · Organized 4+ tech events & 2 hackathons · 200+ participants engaged
-
-**Community Manager @ CodeAI KJSIT** *(Sep 2024 – Present)*  
-Outreach, design, and community growth for AI-focused student community
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/subroto-datta-862632270)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:subroto.d@somaiya.edu)
-
----
-
-*"Skills proven, not claimed."* — the idea behind Proofly, and how I try to approach everything I build.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat&logo=solid&logoColor=c8c9cb) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Subroto-Datta&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Subroto-Datta&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Subroto-Datta&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
